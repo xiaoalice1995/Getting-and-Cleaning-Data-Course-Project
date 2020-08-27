@@ -14,7 +14,6 @@ The information about how the experiment conducted and how the original data col
 
 ## Introduction for the code submmited
 
-- Using `download.file()` together with `unzip()` function to download the zip file from website to my compute. 
 - Using `read.table()` function to load "X_train.txt", "y_train", "subject_train" in train directory and "X_test", "y_test", "subject_test" into R.
 - Using `rbind()` and `cbind()` functions to merge all train and test data together.
 
